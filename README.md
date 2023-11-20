@@ -46,7 +46,7 @@ Now we will log into Client-1 with Remote Desktop and ping DC-1's Private addres
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JP3fxtO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Let's now log in to DC-1 and install Active Directory Domain Services. When the installation is complete, promote it as a DC. Then setup a new forest to anything you want. I'll be calling my domain example.com. After that, restart the VM and log back into DC-1 using the new domain (example.com\user)
