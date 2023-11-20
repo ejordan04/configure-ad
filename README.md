@@ -70,7 +70,7 @@ We're now going to join Client-1 to our domain. In the Azure Portal, we need to 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/v6MjTZH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now we're going to log into Client-1 with example.com\jane_admin to setup Remote Desktop for non-administrative users. Once we have logged in, open system properties and click Remote Desktop. Allow domain users to access Client-1. If done correctly, any normal non-administrative user can use Client-1.
