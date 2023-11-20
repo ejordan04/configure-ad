@@ -25,7 +25,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 - Create an Admin and Normal User Account
 - Add Client-1 to the domain
 - Setup Remote Desktop for non-administrative users on Client-1
-- Create a bunch of additional users and attempt to log into Client-1 with one of the users
+- Create a bunch of additional users with PowerShell ISE
 
 <h2>Deployment and Configuration Steps</h2>
 
