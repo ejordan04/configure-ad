@@ -62,7 +62,7 @@ Now we're going to create an admin and normal user account in Active Directory. 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ejjeznB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We're now going to join Client-1 to our domain. In the Azure Portal, we need to set Client-1's DNS settings to the DC's Private IP address. After doing that, we restart Client-1 and then log back in as the original local admin to join Client-1 to the domain we created. If everything is successful, we should see a welcome to the domain message appear.
