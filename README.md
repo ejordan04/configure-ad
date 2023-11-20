@@ -54,7 +54,7 @@ Let's now log in to DC-1 and install Active Directory Domain Services. When the 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PGHftGO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now we're going to create an admin and normal user account in Active Directory. Under the tools tab in Server Manager, click Active Directory Users and Computers (ADUC) and then create an Organizational Unit (OU) called _EMPLOYEES. Also, create a new OU named _ADMINS. We'll create a new employee named Jane Doe with the username of jane_admin. Next, we'll add jane_admin to the Domain Admins Security Group, and once that's done we'll log out and log back in with example.com\jane_admin.
