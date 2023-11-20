@@ -78,9 +78,9 @@ Now we're going to log into Client-1 with example.com\jane_admin to setup Remote
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qI04TLd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Finally, we will create a bunch of additional users and attempt to log into Client-1 with one of them. Log into DC-1 as jane_admin, then open up PowerShell_ISE as an administrator. We will be using a script from this link https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1 to make additional users appear in the _EMPLOYEES OU. When the script is finished, we'll login in using one of the user's credentials. 
+Finally, we will create a bunch of additional users and attempt to log into Client-1 with one of them. Log into DC-1 as jane_admin, then open up PowerShell_ISE as an administrator. We will be using a script from this link https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1 to make additional users appear in the _EMPLOYEES OU. When the script is finished. try logging in with one of the accounts on Client-1!
 </p>
 <br />
