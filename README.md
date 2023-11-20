@@ -41,7 +41,7 @@ We're going to create the Domain Controller Virtual Machine(VM) using Windows Se
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now we will log into Client-1 with Remote Desktop and ping DC-1's Private address with a perpetual ping. Notice that it is unsuccessful. To fix this, we'll need to log into the Domain Controller and enable ICMPv4 on the local Windows firewall. If we check back at Client-1, the ping now works. 
 </p>
 <br />
 
