@@ -30,7 +30,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3SMjemS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 We're going to create the Domain Controller Virtual Machine(VM) using Windows Server 2022 and name it DC-1. We will set the Domain Controller's NIC Private Address to be static because we don't want it to change. Next, we will create the Client VM that'll use Windows 10 and name it Client-1. 
